@@ -81,11 +81,6 @@ python app_best.py video.mp4
 python app_best.py /path/to/test_clip.avi
 ```
 
-Results are printed to the terminal and saved to a `.txt` file in the same directory:
-```
-video_results.txt
-```
-
 ---
 
 ## 📊 Understanding Results
