@@ -34,7 +34,7 @@ The model file (`ig.bin`) is **not included** in this repository due to its size
 ### ⬇️ Download from Hugging Face
 
 ```
-https://huggingface.co/<your-username>/<your-repo>/resolve/main/ig.bin
+https://huggingface.co/accel69/depfake-detection/resolve/main/ig.bin
 ```
 
 > Replace `<your-username>` and `<your-repo>` with your actual Hugging Face details.
